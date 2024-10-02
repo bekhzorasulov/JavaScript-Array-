@@ -186,3 +186,18 @@
 //         console.log(arr[n - 1 - i]);
 //     }
 // }
+
+// 11 misol
+// let arr = [1, 6, 9, 5, 8, 10, 15];
+// let K = 2;
+// let L = 4;
+// let result = 0;
+// for (let i = 0; i < arr.length; i++) {
+//     if (i < K || i > L) {
+//         result += arr[i];
+//     }
+// }
+// console.log(result);
+
+// // 12 misol
+//  Ustoz bu misoldi yahshi tushunmadi
